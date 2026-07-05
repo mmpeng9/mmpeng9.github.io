@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: headshot.pdf
+  image: headshot.png
   image_circular: false # crops the image to make it circular
   # address: >
   #   <p> address content </p>
